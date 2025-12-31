@@ -1,0 +1,29 @@
+### Footprint positions - created on 2025-12-31T16:21:15+0100 ###
+### Printed by KiCad version 9.0.6-9.0.6~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val             Package                                                 PosX       PosY       Rot  Side
+J12       Conn_01x03_Pin  PinHeader_1x03_P2.54mm_Vertical                     172.7200  -153.0350   90.0000  bottom
+J13       Conn_01x02_Pin  PinHeader_1x02_P2.54mm_Vertical                     172.7200  -142.9000  180.0000  bottom
+C1        1uF             C_Disc_D7.0mm_W2.5mm_P5.00mm                        149.8600   -83.1850   90.0000  top
+J1        Conn_01x02_Pin  PinHeader_1x02_P2.54mm_Vertical                     139.7000   -75.5650  -90.0000  top
+J2        Conn_01x02_Pin  PinHeader_1x02_P2.54mm_Vertical                     139.7000   -83.1850  -90.0000  top
+J3        Conn_01x01_Pin  PinHeader_1x01_P2.54mm_Vertical                     139.7000  -123.8250    0.0000  top
+J4        Conn_01x01_Pin  PinHeader_1x01_P2.54mm_Vertical                     139.7000  -142.8750    0.0000  top
+J5        Conn_01x01_Pin  PinHeader_1x01_P2.54mm_Vertical                     160.0200   -83.1850    0.0000  top
+J6        Conn_01x01_Pin  PinHeader_1x01_P2.54mm_Vertical                     149.8600  -116.2050    0.0000  top
+J7        Conn_01x01_Pin  PinHeader_1x01_P2.54mm_Vertical                     149.8600  -132.7150    0.0000  top
+J8        Conn_01x01_Pin  PinHeader_1x01_P2.54mm_Vertical                     149.8600  -153.0350    0.0000  top
+J9        Conn_01x01_Pin  PinHeader_1x01_P2.54mm_Vertical                     160.0200  -153.0350    0.0000  top
+J10       Conn_01x01_Pin  PinHeader_1x01_P2.54mm_Vertical                     160.0200  -123.8250    0.0000  top
+J11       Conn_01x02_Pin  PinHeader_1x02_P2.54mm_Vertical                     160.1000  -142.3350    0.0000  top
+J14       Conn_01x01_Pin  PinHeader_1x01_P2.54mm_Vertical                     139.7000  -107.3150    0.0000  top
+J15       Conn_01x01_Pin  PinHeader_1x01_P2.54mm_Vertical                     160.0200  -107.3150    0.0000  top
+Q1        2N3906          TO-92_Inline_Wide                                   139.7000  -118.7450   90.0000  top
+Q2        2N3906          TO-92_Inline_Wide                                   160.0200  -118.7450   90.0000  top
+Q3        2N3906          TO-92_Inline_Wide                                   160.0200  -135.2550   90.0000  top
+Q4        2N3906          TO-92_Inline_Wide                                   139.7000  -135.2550   90.0000  top
+R1        18.2            R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal   139.7000   -89.5350  -90.0000  top
+R2        18.2            R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal   160.0200   -89.5350  -90.0000  top
+RV1       10k             Potentiometer_Bourns_3266Y_Vertical                 139.7000  -147.9550   90.0000  top
+## End
